@@ -56,7 +56,7 @@ function AgentDash() {
                     Active
                 </td>
                 <td class="px-6 py-4">
-                    Task
+                    Task Add
                 </td>
                 <td class="px-6 py-4">
                 <Link to='/TaskForm' className='text-lg text-blue-500 p-1'>Add Task</Link>                
